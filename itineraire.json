@@ -1,0 +1,280 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Archipel Sauvage : Aventure Féroïenne de 8 Jours",
+  "budget_total": "2200€",
+  "duree": "8 jours",
+  "temps_vol": "8h avec escale depuis Marie, France",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et découverte de Tórshavn",
+      "legende": "Après votre atterrissage à Vagar, prenez la route panoramique vers Tórshavn, la capitale. Installez-vous et profitez d'une première immersion douce dans l'ambiance féroïenne, en explorant les ruelles colorées de la vieille ville.",
+      "lieu": "Tórshavn, Streymoy",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Vagar et prise du véhicule de location</strong>: Récupérez votre voiture, indispensable pour explorer l'archipel, et admirez les premiers paysages en direction de Tórshavn.",
+        "🛏️ <strong>Installation à l'hôtel à Tórshavn</strong>: Posez vos bagages dans votre hébergement pour les premières nuits, idéalement situé pour explorer la capitale et ses environs.",
+        "🚶‍♂️ <strong>Balade dans le quartier historique de Tinganes</strong>: Promenez-vous parmi les maisons en bois aux toits d'herbe de Tinganes, le siège du gouvernement féroïen, et ressentez l'histoire de ce lieu millénaire."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Conseil transport",
+          "texte": "La location de voiture est quasi obligatoire pour profiter pleinement des îles. Réservez-la bien à l'avance, surtout en haute saison."
+        },
+        {
+          "symbole": "💡",
+          "titre": "À savoir",
+          "texte": "Les tunnels sous-marins sont payants aux îles Féroé. Le coût est généralement déduit automatiquement de votre carte de crédit via la plaque d'immatriculation de votre voiture de location."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Histoire et culture féroïenne",
+      "legende": "Plongez dans le passé fascinant des îles Féroé en explorant les sites historiques majeurs. De la capitale animée aux vestiges médiévaux, cette journée vous offre un aperçu profond de l'identité féroïenne.",
+      "lieu": "Tórshavn et Kirkjubøur, Streymoy",
+      "activites": [
+        "🚶‍♀️ <strong>Exploration du centre-ville de Tórshavn et du port</strong>: Découvrez les boutiques locales, les cafés chaleureux et l'ambiance maritime du port de Tórshavn, le cœur vibrant de la capitale.",
+        "⛪ <strong>Visite de Kirkjubøur, le centre historique et culturel</strong>: Explorez les ruines de la cathédrale de Magnus, l'église Saint-Olav et la plus ancienne ferme en bois habitée du monde, la Kirkjubøargarður, témoins d'un riche passé épiscopal."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie",
+          "texte": "Goûtez au poisson frais ou à l'agneau féroïen dans l'un des restaurants de Tórshavn. Les produits locaux sont à l'honneur."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Randonnée facile",
+          "texte": "La balade entre Tórshavn et Kirkjubøur est agréable et offre de belles vues sur la côte, si le temps le permet."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Vallées isolées et plages de galets",
+      "legende": "Aventurez-vous vers le nord de Streymoy pour découvrir des paysages emblématiques. Des vallées verdoyantes de Saksun aux plages de galets noirs de Tjørnuvík, cette journée est une ode à la nature brute des Féroé.",
+      "lieu": "Saksun et Tjørnuvík, Streymoy",
+      "activites": [
+        "⛪ <strong>Découverte de Saksun et son église aux toits d'herbe</strong>: Admirez ce village pittoresque niché au fond d'un lagon, entouré de montagnes majestueuses, un véritable havre de paix.",
+        "🏖️ <strong>Exploration de Tjørnuvík et des rochers Risin & Kellingin</strong>: Profitez de la plage de sable noir de Tjørnuvík et contemplez les célèbres stacks marins, Risin et Kellingin, liés à une légende locale."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Saksun est l'un des lieux les plus photographiés des Féroé. Prévoyez du temps pour capturer la beauté du site sous différents angles."
+        },
+        {
+          "symbole": "⚠️",
+          "titre": "Marées",
+          "texte": "À Saksun, vérifiez les horaires des marées si vous souhaitez marcher jusqu'à la mer dans le lagon, le chemin peut être inondé à marée haute."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "⛰️",
+      "titre": "Gorges et villages de pêcheurs",
+      "legende": "Partez à la découverte de l'île d'Eysturoy, connue pour ses paysages dramatiques et ses charmants villages. De la gorge naturelle de Gjógv au stade de football le plus insolite du monde, la journée promet des vues imprenables.",
+      "lieu": "Gjógv et Eiði, Eysturoy",
+      "activites": [
+        "🌊 <strong>Visite de Gjógv et son port naturel unique</strong>: Explorez ce village pittoresque et son impressionnante gorge marine servant de port, un spectacle naturel fascinant.",
+        "⚽ <strong>Arrêt à Eiði et son stade de football au bord de l'océan</strong>: Admirez le village d'Eiði et son stade de football offrant une vue spectaculaire sur l'océan Atlantique, un cadre unique pour un terrain de sport."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Randonnée",
+          "texte": "À Gjógv, une petite randonnée le long de la gorge offre des points de vue magnifiques sur le village et la mer."
+        },
+        {
+          "symbole": "🌬️",
+          "titre": "Météo",
+          "texte": "Le vent peut être fort sur les côtes d'Eysturoy. Prévoyez des vêtements coupe-vent et imperméables."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🚢",
+      "titre": "L'île de Kalsoy et son phare emblématique",
+      "legende": "Embarquez pour une aventure sur l'île de Kalsoy, surnommée \"la flûte\" en raison de sa forme allongée. Une randonnée jusqu'au phare de Kallur vous récompensera avec des panoramas à couper le souffle, dignes d'une carte postale.",
+      "lieu": "Kalsoy",
+      "activites": [
+        "⛴️ <strong>Traversée en ferry vers l'île de Kalsoy</strong>: Prenez le ferry depuis Klaksvík pour rejoindre Kalsoy, une île moins accessible mais incroyablement gratifiante.",
+        "🚶‍♂️ <strong>Randonnée jusqu'au phare de Kallur</strong>: Marchez jusqu'à ce phare emblématique, offrant des vues spectaculaires sur les falaises abruptes et l'océan, un incontournable des Féroé."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Horaires ferry",
+          "texte": "Vérifiez les horaires du ferry pour Kalsoy à l'avance, car les places sont limitées et il est conseillé d'arriver tôt."
+        },
+        {
+          "symbole": "🥾",
+          "titre": "Équipement",
+          "texte": "La randonnée vers Kallur Lighthouse peut être boueuse et venteuse. Prévoyez de bonnes chaussures de marche et des vêtements adaptés."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "⛪",
+      "titre": "Les îles du Nord et Klaksvík",
+      "legende": "Explorez les îles du Nord, caractérisées par leurs montagnes imposantes et leurs villages isolés. De la pointe nord de Viðoy à la ville de Klaksvík, cette journée vous immerge dans une atmosphère authentique et sauvage.",
+      "lieu": "Viðoy et Klaksvík, Borðoy",
+      "activites": [
+        "⛰️ <strong>Visite de Viðareiði, le village le plus au nord</strong>: Découvrez ce village paisible niché entre des montagnes imposantes et l'océan, offrant des vues spectaculaires sur les îles environnantes.",
+        "⚓ <strong>Exploration de Klaksvík, la deuxième ville des Féroé</strong>: Flânez dans le port animé de Klaksvík, admirez son église moderne et ressentez l'importance de la pêche pour l'économie locale."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🗺️",
+          "titre": "Orientation",
+          "texte": "Les îles du Nord sont reliées par des tunnels et des ponts, facilitant l'exploration en voiture."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Randonnée",
+          "texte": "Depuis Viðareiði, il est possible de faire une randonnée vers le mont Villingardalsfjall, le point culminant de l'île, pour des vues panoramiques."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "💧",
+      "titre": "Cascades, villages traditionnels et falaises",
+      "legende": "Retournez vers l'île de Vagar pour explorer ses trésors cachés. Des cascades emblématiques aux villages pittoresques et aux vues sur les formations rocheuses impressionnantes, cette journée est un festival de paysages féroïens.",
+      "lieu": "Gásadalur, Bøur et Sørvágur, Vagar",
+      "activites": [
+        "💧 <strong>Contemplation de la cascade de Múlafossur à Gásadalur</strong>: Admirez cette cascade iconique se jetant directement dans l'océan, l'une des images les plus célèbres des Féroé.",
+        "🏠 <strong>Découverte du village traditionnel de Bøur</strong>: Promenez-vous dans ce charmant village aux maisons aux toits d'herbe, offrant une vue imprenable sur l'île de Mykines et les formations rocheuses de Drangarnir.",
+        "📸 <strong>Vue sur Drangarnir et Tindhólmur depuis Sørvágur</strong>: Profitez des points de vue le long de la route pour admirer les impressionnantes formations rocheuses de Drangarnir et l'île de Tindhólmur."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🌅",
+          "titre": "Meilleur moment",
+          "texte": "La cascade de Múlafossur est particulièrement belle au coucher du soleil, lorsque la lumière met en valeur ses couleurs."
+        },
+        {
+          "symbole": "🥾",
+          "titre": "Accès",
+          "texte": "L'accès à Gásadalur est désormais facile grâce à un tunnel, mais le village a conservé son charme isolé."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🛫",
+      "titre": "Derniers instants et départ",
+      "legende": "Profitez de vos dernières heures sur l'archipel pour quelques achats de souvenirs ou une dernière balade. Reprenez la route vers l'aéroport de Vagar, la tête pleine de souvenirs inoubliables de ces îles mystérieuses.",
+      "lieu": "Vagar",
+      "activites": [
+        "🛍️ <strong>Achats de souvenirs locaux</strong>: Profitez de vos derniers instants pour trouver des pulls en laine féroïenne ou d'autres artisanats locaux.",
+        "🛫 <strong>Retour du véhicule de location et vol retour</strong>: Rendez votre voiture à l'aéroport de Vagar et embarquez pour votre vol, emportant avec vous la magie des Féroé."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps d'avance",
+          "texte": "L'aéroport de Vagar est petit, mais prévoyez tout de même un temps suffisant pour le retour de la voiture et l'enregistrement."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Idée cadeau",
+          "texte": "Les pulls en laine féroïenne (lopapeysa) sont des souvenirs authentiques et de grande qualité."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "550€/pers (vol A/R Marie, France - Vagar avec escale en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "400€/pers (location de voiture pour 8 jours, essence et tunnels inclus, base 2 pers.)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "560€/pers (8 jours, repas du midi et soir, hors petit-déjeuner souvent inclus)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "525€/pers (7 nuits en hôtel 3 étoiles, base chambre double partagée)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "75€/pers (ferry Kalsoy, quelques musées ou petites entrées)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de juin, juillet et août.",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "Ces mois offrent les températures les plus douces et les jours les plus longs, propices à l'exploration.",
+      "symbole": "🌡️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "Les îles Féroé sont un territoire autonome du Danemark, avec leur propre langue, le féroïen, mais le danois et l'anglais sont largement parlés.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "La population est d'environ 54 000 habitants, avec plus de moutons que d'humains, ce qui témoigne de la nature sauvage de l'archipel.",
+      "symbole": "🐑"
+    },
+    {
+      "titre": "Le temps est extrêmement changeant : il est courant de connaître les \"quatre saisons en une journée\". Prévoyez toujours des couches de vêtements et un imperméable.",
+      "symbole": "🌦️"
+    },
+    {
+      "titre": "Il n'y a pratiquement pas d'arbres aux Féroé, le paysage est dominé par l'herbe, la roche et la mer, offrant des panoramas uniques et grandioses.",
+      "symbole": "🌳"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles et inspiration pour votre voyage",
+      "titre": "Visit Faroe Islands",
+      "url": "https://visitfaroeislands.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires et réservations des ferries locaux",
+      "titre": "Smyril Line (ferries)",
+      "url": "https://www.ssl.fo/",
+      "symbole": "🚢"
+    },
+    {
+      "legende": "Prévisions météo fiables pour les îles Féroé",
+      "titre": "YR.no (Météo)",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-2610731/Faroe%20Islands/Vagar%20municipality/Vagar",
+      "symbole": "🌤️"
+    }
+  ]
+}
